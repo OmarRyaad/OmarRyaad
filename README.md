@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi there, Iam Omar Ryad Front End Developer 👋
 
-<!--
-**OmaarMohamed/OmaarMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![331339935-8f0accf5-b4a7-497f-98f2-638566b68b3b](https://github.com/user-attachments/assets/5ff8e3cf-3ad6-48bf-b9b1-eb71c54fcfba)
 
 Here are some ideas to get you started:
