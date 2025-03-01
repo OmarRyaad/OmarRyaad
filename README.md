@@ -13,6 +13,6 @@
 
 💬 Ask me about React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Zustand, and frontend architecture.
 
-📫 How to reach me: [https://www.linkedin.com/in/omaar-mohaamed]
+📫 How to reach me: [https://www.linkedin.com/in/Omar-Ryaad]
 
 ⚡ Fun fact: I can turn a simple wireframe into a pixel-perfect, blazing-fast web app before you finish your coffee! 🚀
