@@ -3,7 +3,7 @@
 ![331339935-8f0accf5-b4a7-497f-98f2-638566b68b3b](https://github.com/user-attachments/assets/5ff8e3cf-3ad6-48bf-b9b1-eb71c54fcfba)
 
 
-🔭 I’m currently working on building scalable and high-performance web applications using React.js and Next.js.
+🔭 I’m currently working on building scalable and high-performance web applications using Angular.js and React.js, Next.js.
 
 🌱 I’m currently learning advanced design patterns, WebAssembly, and performance optimization techniques.
 
